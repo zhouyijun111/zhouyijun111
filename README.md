@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Yijun Zhou.
-- 🎓 I am currently a sophermore majoring in EECS at UC Berkeley.
+- 🎓 I am currently a junior majoring in EECS at UC Berkeley.
 - 📫 Feel free to reach me via zhouyijun@berkeley.edu
 
 <!---
